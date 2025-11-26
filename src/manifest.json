@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.CoolSync",
+	"app_min_version": "3.4",
+	"version": "1.0.0",
+	"name": "Cool-Sync",
+	"description": "A Joplin plugin to synchronise unidirectionally a Joplin Notebook and its entire sub-tree of elements into a local folder on hard drive...",
+	"author": "Emmanuel FRANCOIS - Calais - France",
+	"homepage_url": "https://emmanuelfrancois.fr/joplin-plugins/cool-sync",
+	"repository_url": "https://github.com/EmmanuelFRANCOIS/joplin-plugin-cool-sync",
+	"keywords": [ "synchronisation", "files", "local folder" ],
+	"categories": [ "productivity", "files"],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
