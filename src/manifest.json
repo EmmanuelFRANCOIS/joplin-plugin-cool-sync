@@ -8,7 +8,7 @@
 	"author": "Emmanuel FRANCOIS - Calais - France",
 	"homepage_url": "https://emmanuelfrancois.fr/joplin-plugins/cool-sync",
 	"repository_url": "https://github.com/EmmanuelFRANCOIS/joplin-plugin-cool-sync",
-	"keywords": [ "synchronisation", "files", "local folder" ],
+	"keywords": [ "joplin-plugin", "synchronisation", "files", "local folder" ],
 	"categories": [ "productivity", "files"],
 	"screenshots": [],
 	"icons": {},

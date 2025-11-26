@@ -1,9 +1,9 @@
 # 🧊 Cool-Sync — Joplin Plu­g­in
 
-**Smart back­up of a spe­cif­ic Joplin note­book to a lo­cal fold­er or ZIP archive**
+**Smart unidirectional sync of a spe­cif­ic Joplin note­book to a lo­cal fold­er and/or ZIP archive**
 
-Cool-Sync is a Joplin plu­g­in that al­lows you to **syn­chro­nize a spe­cif­ic note­book** (in­clud­ing its full sub-di­rec­to­ry tree) to a lo­cal fold­er, a ZIP archive, or both.  
-It pro­vides **flex­i­ble**, **se­cure**, and **au­tomat­able** back­ups while main­tain­ing a na­tive Joplin look & feel.
+Cool-Sync is A Joplin plugin to synchronise unidirectionally a Joplin Notebook and its entire sub-tree of elements into a local folder on hard drive...  
+It pro­vides **flex­i­ble**, **se­cure**, and **au­tomat­able** syncs while main­tain­ing a na­tive Joplin look & feel.
 
 ## ✨ Key Fea­tures
 
