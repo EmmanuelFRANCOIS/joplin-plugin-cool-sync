@@ -188,4 +188,4 @@ Cool-Sync au­to­mat­i­cal­ly adapts to the cur­rent Joplin lo­cale: **fr-
 4.  Run man­u­al­ly or ac­ti­vate au­to­mat­ic sync.
 
 ## 📝 Li­cense
-To be de­fined (MIT rec­om­mend­ed).
+To be de­fined...
