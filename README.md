@@ -52,7 +52,19 @@ It pro­vides **flex­i­ble**, **se­cure**, and **au­tomat­able** back­ups 
 
 Ex­am­ple struc­ture gen­er­at­ed on syn­chro­niza­tion:
 
-`[target-folder]/│├── ZIP/│ ├── backup - Main Notebook - YYYY MM DD - hh-mm-ss.zip│ ├── backup - Main Notebook - YYYY MM DD - hh-mm-ss.zip│ └── ...│└── DATA/ └── [Main Notebook]/ ├── [Notebook]/ │ ├── Note.md │ └── ... └── ...`
+```DOS
+[target-folder]/
+│   ├── ZIP/
+│   │   ├── backup - Main Notebook - YYYY MM DD - hh-mm-ss.zip
+│   │   ├── backup - Main Notebook - YYYY MM DD - hh-mm-ss.zip
+│   │   └── ...
+│   └── DATA/
+│       └── [Main Notebook]/
+│           ├── [Notebook]/
+│           │   ├── Note.md
+│           │   └── ...
+│           └── ...
+```
 
 - **DATA/** → Un­en­crypt­ed fold­er-based syn­chro­niza­tion
     
